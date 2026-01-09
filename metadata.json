@@ -1,0 +1,8 @@
+{
+  "name": "2PAC-SHARE",
+  "description": "A gritty, minimalistic red-themed P2P file sharing app with gangsta vibes. Share your loot directly from your browser without the middleman.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
