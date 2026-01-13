@@ -2,6 +2,8 @@
 
 **ALL EYEZ ON YOUR FILES** - A gangster-themed file sharing app inspired by 2Pac.
 
+**MADE BY ADARSH WITH CLAUDE AI, I HAVE NO IDEA HOW THIS WAS MADE BUT IT WORKS, ALSO THE SHAREABLE LINK DOESNT WORK SO DONT WORRY WILL FIX LATER**
+
 ## 🔥 Features
 
 - **Red/Black gangster aesthetic** with 2Pac vibes
