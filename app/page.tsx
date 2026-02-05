@@ -212,7 +212,7 @@ export default function TupacShare() {
               >
                 {uploading ? 'UPLOADING...' : 'SELECT FILE'}
               </label>
-              <p className="text-red-400 text-xs mt-3">MAX 4.5MB</p>
+              <p className="text-red-400 text-xs mt-3">MAX 3.375MB</p>
             </div>
 
             {uploadedFile && (
